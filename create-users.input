@@ -1,0 +1,8 @@
+user01:Sneezyjungle7!:Last01:First01:group01
+user02:Sneezyjungle7!:Last02:First02:group02
+#user03:Sneezyjungle7!:Last03:-
+user04:pass04:Last04:First04:group01
+user05:pass05:Last05:First05:group02
+user06:pass06:Last06:First06:group01,group02
+user07:pass07:last07:First07:-
+baduser::Last08:First08:group03
